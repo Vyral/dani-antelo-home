@@ -3,7 +3,7 @@ title: "Andross"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: "https://trinityrealestatenicaragua.com"
+url: "https://houstonbroker.com"
 
 # Build settings
 markdown: kramdown
@@ -43,8 +43,3 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-tags:
-  - Actualización del Mercado (Market Update)
-  - Bienes Raíces (Real Estate)
-  - Consejos para Vendedores de Propiedad (Home Buyer Tips)
-  - Articles
