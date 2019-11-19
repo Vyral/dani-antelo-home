@@ -1,66 +1,63 @@
 audit_header: false
-title: San Juan del Sur and Tola
-description: Our mission at Trinity Real Estate is to be your best resource for San Juan del Sur real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Trinity Real Estate, your professional San Juan del Sur Real Estate Agents.
+title: Houston Broker Team
+description: Our mission at Keller Williams is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams, your professional Houston Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Testimonials
-    url: /testimonials/
-  - title: Articles
-    url: /articles/
-show_custom_links_new_tab: false
-custom_links_new_tab:
-  - title:
-    url:
-
+  - title: Houston Gems
+    url: /houston-gems/
+  - title: Women to Women
+    url: /women-to-women/
+  - title: Featured Homes
+    url: /featured-homes/
+  - title: How to Buy a House in Houston, TX
+    url: https://www.amazon.com/dp/1792789300
+  - title: Townhome Development
+    url: /townhome-developoment/
+  - title: Calendar
+    url: /calendar/
 client:
-  name: Joao Mucciolo
+  name: Daniela Antelo
   title:
   license_number:
   about_markdown: |
-    Joao ha sido emprendedor desde 2003 en Nicaragua, trayendo la franquicia Sushi Itto al país y creando su propia marca: Italianissimo. Creó una empresa de 6 restaurantes y más de 120 empleos directos.
-
-    Brasileño de nacimiento y viajero del mundo, Joao aterrizó en Nicaragua hace más de 20 años y se considera hoy como Nica. Habla español, inglés, portugués y un poco de francés.
-
-    Joao ha contribuido al emprendimiento en Nicaragua, trayendo organizaciones como la Organización de Empresarios y Accelerator con el propósito de ayudar al crecimiento del emprendimiento. También es miembro de la Iniciativa de Liderazgo Centroamericana del Instituto Aspen, donde fortalece sus habilidades de liderazgo.
-  brand: Trinity Real Estate
-  brokerage: Keller Williams
-  market: San Juan del Sur
-  address:
-  phone: 505 88838829
+    Daniela Antelo has been a Houston-based real estate professional since 2011. Over the course of her career, she has earned multiple designations, such as Certified Negotiation Expert (CNE), Accredited Luxury Home Specialist (ALHS) an Accredited Buyer Representative (ABR). She earned her Broker’s license in 2018 and is currently a Broker Associate with Keller Williams Realty.
+  brand: Keller Williams
+  brokerage: Houston Broker Team
+  market: Houston
+  address: 950 Corbindale Rd. Suite 100<br>Houston, TX 77024
+  phone: 713-494-8170
   phone_type:
   phone2:
   phone2_type:
-  email: joao.mucciolo@kwnicaragua.com
-  url: https://www.kwnicaragua.com/joao
+  email: antelodani@gmail.com
+  url: http://www.houstonbroker.com
 
 CTAs:
-  first_CTA_text: Listings Search
-  first_CTA_URL: https://www.kwnicaragua.com/listings?transactionType=1&resCom=1#?resCom=1&transactionType=1&lan=en-US&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
-  second_CTA_text: Property Evaluation
-  second_CTA_URL: /property-value/
-  third_CTA_text: Rental Properties
-  third_CTA_URL: https://selvapacifica.com/
+  first_CTA_text: Home Valuation
+  first_CTA_URL: http://web.har.com/aws/disphomeworth.cfm?siteType=aws&cid=617461
+  second_CTA_text: Home Search
+  second_CTA_URL: http://search.har.com/idx/?siteType=aws&cid=617461
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/002.jpg
-    CTA_title: "Looking for a San Juan del Sur Home?"
-    CTA_text: "Search all residential properties available for sale"
-    CTA_link_text: "Listings Search"
-    CTA_url: https://www.kwnicaragua.com/listings?transactionType=1&resCom=1#?resCom=1&transactionType=1&lan=en-US&currency=USD&filterVal=1026&refineSearch=1&pageNumber=1
+  - CTA_image_path: /img/cta-images/001.jpg
+    CTA_title: "What’s Your Houston Home Worth?"
+    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: http://web.har.com/aws/disphomeworth.cfm?siteType=aws&cid=617461
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/001.jpg
-    CTA_title2: "Looking for a Home?"
-    CTA_text2: "Search the entire MLS for your Property."
-    CTA_link_text2: "Property Evaluation"
-    CTA_url2: /property-value/
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "Looking for a Houston Home?"
+    CTA_text2: "Search the entire MLS for your Houston home."
+    CTA_link_text2: "Search the MLS"
+    CTA_url2: http://search.har.com/idx/?siteType=aws&cid=617461
 
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Vacation Homes That Are Extraordinary"
-    CTA_text3: "With a curated a collection of exclusive, hand picked, luxury spaces—in all shapes and sizes—we provide the ultimate experiences in all of Nicaragua."
-    CTA_link_text3: "Search Rental Properties"
-    CTA_url3: https://selvapacifica.com/
+    CTA_title3: "Meet With Us"
+    CTA_text3: "Schedule a time for us to sit down face to face."
+    CTA_link_text3: "See Calendar"
+    CTA_url3: /calendar/
 
 lender:
   show_section: false
@@ -77,11 +74,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/trinityrealestatenic/
-  linkedin_url: https://www.linkedin.com/in/joao-mucciolo-7b2534/
-  youtube_url: https://www.youtube.com/channel/UC7RxnXBs__0hN02eOs5xd8A?view_as=subscriber
+  facebook_url: https://www.facebook.com/Houston-Broker-Dani-Antelo-2171832076399087/
+  linkedin_url:
+  youtube_url: https://www.youtube.com/channel/UCtErXoPb-1hXn2btdLgchsQ
   twitter_url:
-  instagram_url: https://www.instagram.com/joaomucciolo/
+  instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -89,25 +86,22 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'San Juan del Sur Real Estate Podcast with Joao Mucciolo'
+  title: 'Houston Real Estate Podcast with Daniela Antelo'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Juan del Sur Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Trinity Real Estate - your professional San Juan del Sur Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Juan del Sur, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Joao Mucciolo'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Houston Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Daniela Antelo'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 25
-  hero_text: Blog de video inmobiliario de San Juan del Sur y Tola
+  logo_width_number: 40
+  hero_text: Houston Broker Team
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
-  post_cta_image: /img/home-value.jpg
-  post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#b40101'
   theme_color: '#999'
@@ -119,7 +113,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: '#000000'
 
 buttons:
   button_radius_number: 0
